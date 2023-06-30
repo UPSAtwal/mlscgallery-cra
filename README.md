@@ -22,6 +22,7 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 - [ ] Add hacking text animation to the center of gallery page which says "This is MLSC"
 - [ ] Create a backend for uploading images
 - [ ] Make the MLSC logo an svg
+- [ ] Switch to webp format for images
 
 ---
 
