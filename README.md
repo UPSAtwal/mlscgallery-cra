@@ -20,6 +20,8 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 - [x] ~~Use swyper to cycle through images~~
 - [ ] Add Exploding animation to image on click which reveals all images with a cool animation
 - [ ] Add hacking text animation to the center of gallery page which says "This is MLSC"
+- [ ] Create a backend for uploading images
+- [ ] Make the MLSC logo an svg
 
 ---
 
