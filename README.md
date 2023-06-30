@@ -12,6 +12,7 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 ## Built With
 
 - [React](https://reactjs.org/)
+- [Swiper](https://swiperjs.com/)
 
 ## To-Do
 
