@@ -12,6 +12,7 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 ## Built With
 
 - [React](https://reactjs.org/)
+- [yarn](https://yarnpkg.com/)
 - [Swiper](https://swiperjs.com/)
 
 ## To-Do
@@ -23,6 +24,7 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 - [ ] Create a backend for uploading images
 - [ ] Make the MLSC logo an svg
 - [ ] Switch to webp format for images
+- [ ] add parallax effect to the exploding animation using atropos js
 
 ---
 
