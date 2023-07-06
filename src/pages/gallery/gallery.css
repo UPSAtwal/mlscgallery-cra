@@ -14,7 +14,7 @@ body{
 }
 /* page */
 .pagewrapper{
-    background: linear-gradient(rgba(13, 18, 19, 0),rgba(13, 18, 19, 0)) url('./assets/gallery-images/crowd.jpg');
+    background: linear-gradient(rgba(13, 18, 19, 0),rgba(13, 18, 19, 0)) url('./gallery-images/crowd.jpg');
     background-size: cover;
     margin: 0 auto;
     display:flex;
