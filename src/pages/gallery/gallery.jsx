@@ -1,10 +1,10 @@
 import "./gallery.css";
 import greaterthan from "./assets/greater_than_white.svg";
 import lessthan from "./assets/less_than_white.svg";
-import nineteen from "./assets/gallery-images/2019.jpg";
-import twentyone from "./assets/gallery-images/2021.jpg"
-import twentytwo from "./assets/gallery-images/2022.jpg"
-import crowdimg from "./assets/gallery-images/crowd.jpg"
+import nineteen from "./gallery-images/2019.jpg";
+import twentyone from "./gallery-images/2021.jpg"
+import twentytwo from "./gallery-images/2022.jpg"
+import crowdimg from "./gallery-images/crowd.jpg"
 
 function Gallery() {
     return (
