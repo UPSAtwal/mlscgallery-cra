@@ -1,7 +1,5 @@
 # Gallery Page - MLSC Website
 
-Check development deployment at [https://gallery-dev.uday.codes/]
-
 Eventually this will be deployed to [https://mlsctiet.com/gallery]
 
 ## Description
