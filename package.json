@@ -1,15 +1,14 @@
 {
-  "name": "gallery-page",
-  "version": "0.69",
+  "name": "mlsc-gallerypage",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "framer-motion": "^10.12.18"
-
-
+    "swiper": "^9.4.1",
+    "web-vitals": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +33,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "7.22.5"
   }
 }

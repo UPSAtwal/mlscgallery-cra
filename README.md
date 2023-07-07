@@ -1,6 +1,4 @@
-# **Doing everything again from scratch. *sigh***
-
-## Gallery Page - MLSC Website
+# Gallery Page - MLSC Website
 
 Check development deployment at [https://gallery-dev.uday.codes/]
 
@@ -15,6 +13,18 @@ Everthing related to gallery is included in `src/pages/gallery` folder for the p
 
 - [React](https://reactjs.org/)
 - [yarn](https://yarnpkg.com/)
+- [Swiper](https://swiperjs.com/)
+
+## To-Do
+
+- [x] ~~Create a basic gallery page~~
+- [x] ~~Use swyper to cycle through images~~
+- [ ] Add Exploding animation to image on click which reveals all images with a cool animation
+- [ ] Add hacking text animation to the center of gallery page which says "This is MLSC"
+- [ ] Create a backend for uploading images
+- [ ] Make the MLSC logo an svg
+- [ ] Switch to webp format for images
+- [ ] add parallax effect to the exploding animation using atropos js
 
 ---
 

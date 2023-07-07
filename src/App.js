@@ -1,5 +1,5 @@
 // import './App.css';
-import Gallery from "./pages/Gallery/gallery.js";
+import Gallery from "./pages/gallery/gallery";
 // import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
