@@ -10,10 +10,8 @@ const ExpandableCard = (props) => {
     // width: "80%",
     position: "relative",
     marginTop: "2px",
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    };
+    // left: "10%",
+  };
 
   const clickHandler = () => {
     if (props.actid === props.index) {

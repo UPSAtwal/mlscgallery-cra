@@ -12,7 +12,7 @@
     display: flex;
     flex-direction: column;
     min-height: 0px;
-    /* position: static; */
+    position: static;
 }
 
 @media screen and (min-width: 992px) {
@@ -31,7 +31,7 @@
     background-color: bisque;
     margin: 4px;
     transition: 0.6s ease-in-out;
-    /* position: static; */
+    position: static;
 }
 
 .i1:hover {
